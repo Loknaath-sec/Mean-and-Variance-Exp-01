@@ -1,4 +1,4 @@
-#  EXP-01 - Mean and variance of a discrete  distribution
+#  EXP 01 - Mean and variance of a discrete  distribution
 ### Name : LOKNAATH.P
 ### Register Number : 212223240080 
 
